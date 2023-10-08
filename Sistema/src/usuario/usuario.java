@@ -1,0 +1,7 @@
+package usuario;
+
+public class usuario {
+public static void main(String[] args) {
+	System.out.println("juan");
+}
+}
